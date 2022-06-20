@@ -1,5 +1,5 @@
 # Restaurant-Application
- Build an restaurant application using HTML,CSS and Javascript
+ Build A Restaurant Application Using HTML,CSS and Javascript
 
 Project Demo
 
